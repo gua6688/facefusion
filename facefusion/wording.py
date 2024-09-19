@@ -127,7 +127,7 @@ WORDING : Dict[str, Any] =\
 		'stop_button': 'STOP',
 		'clear_button': 'CLEAR',
 		# about
-		'donate_button': 'DONATE',
+		'donate_button': '蛙哥666',
 		# benchmark
 		'benchmark_results_dataframe': 'BENCHMARK RESULTS',
 		# benchmark options
